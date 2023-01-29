@@ -3,13 +3,13 @@ Curso de Econometría II, FE-UNAM para el semestre 2023-II
 
 ## Temario
 
-### 1. Repaso de Estimación por Mínimos Cuadrados Ordinarios (MCO)
+### 1. Repaso de Estimaci ́on por M ́ınimos Cuadrados Ordinarios (MCO) o lo que todas las personas deberíamos saber
 
 ### 2. Estimación de Sistemas de Ecuaciones
 
 ### 3. Modelos de Datos Panel
 
-### 4. Modelos No Lineales
+### 4. Modelos No Lineales y otros temas selectos
 
 ### 5. Introducción al Aprendizaje Estadístico
 
